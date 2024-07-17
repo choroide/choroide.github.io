@@ -1,8 +1,8 @@
 ---
 title: "PII, PHI ve PSI"
-date: 2024-07-16 21:53:00 +0300
-categories: [Siber Güvenlik]
-tags: [Bilgi Güvenliği]
+date: 2023-05-17 21:53:00 +0300
+categories: [Siber Güvenlik, Bilgi Güvenliği]
+tags: [Kişisel Bilgiler]
 image:
   path: images/PII_PHI_PSI/Cover.jpg
 ---
@@ -11,7 +11,7 @@ Günümüzde bireylerin birçok bilgisi sanal olarak tutulmakta. Bu bilgiler tek
 PII, PHI ve PSI gibi farklı kısaltmalar, kişisel verilerin çeşitli kategorilerini tanımlıyor. PII(Personally Identifiable Information), kişinin kimliğini belirleyen bilgilerdir. İsim, soy isim, ikamet adresi, doğum tarihi, kimlik numarası, kart numarası, e-posta adresi gibi bilgiler PII için örnek olarak verilebilir.
 
 ![Personal Identifiable Information](images/PII_PHI_PSI/PII.webp)
-_Source : https://www.atatus.com/blog/personally-identifiable-information-pii-guide/_
+_Source : <https://www.atatus.com/blog/personally-identifiable-information-pii-guide/>_
 
 PHI(Protected Health Information), kişinin sağlık bilgilerini ifade eder. Kişinin sağlık durumu, hastalık geçmişi, tedavisi, geçmişte veya şuan aldığı ilaçlar, laboratuvar test sonuçları gibi bilgiler PHI için örnek olarak verilebilir. PHI bilgileri HIPAA (Health Insurance Portability and Accountability Act) ve Avrupa Birliği’nde GDPR(General Data Protection Regulation) tarafıdan korunur ve tehtit aktörleri tarafından sık sık hedef alınır. Bunun sebebi bu gibi bilgilerin kimlik hırsızlığı veya sigorta dolandırıcılığı için kullanılabilecek olduğundandır.
 
