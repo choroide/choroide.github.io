@@ -3,6 +3,7 @@ title: "Pyramid of Pain"
 date: 2024-02-11 21:53:00 +0300
 categories: [Siber Güvenlik, Tehdit İstihbaratı]
 tags: [TTPs, Pyramid of Pain, Siber Tehdit]
+author: akkaya
 image:
   path: images/PyramidOfPain/Cover.jpg
 ---

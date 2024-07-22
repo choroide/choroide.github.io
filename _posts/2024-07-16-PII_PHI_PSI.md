@@ -3,6 +3,7 @@ title: "PII, PHI ve PSI"
 date: 2023-05-17 21:53:00 +0300
 categories: [Siber Güvenlik, Bilgi Güvenliği]
 tags: [Kişisel Bilgiler]
+author: akkaya
 image:
   path: images/PII_PHI_PSI/Cover.jpg
 ---
