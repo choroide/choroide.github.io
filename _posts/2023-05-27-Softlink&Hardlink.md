@@ -1,5 +1,5 @@
 ---
-title: "Soflink ve Hardlink Nedir?"
+title: "Softlink ve Hardlink Nedir?"
 date: 2023-05-27 20:20:00 +0300
 categories: [GNU/Linux, CLI]
 tags: [Bash, Commands]
