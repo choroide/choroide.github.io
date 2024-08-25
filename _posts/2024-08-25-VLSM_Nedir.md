@@ -8,7 +8,7 @@ image:
   path: images/VLSM_Nedir/Cover.jpg
 ---
 
-Variable Length Subnet Masking (VLSM), ağ mühendislerinin IP adreslerini daha verimli bir şekilde yönetmelerini sağlayan bir alt ağ oluşturma tekniğidir. Klasik alt ağ maskesi yöntemlerinin aksine, VLSM ile her bir alt ağ için farklı uzunlukta subnet maskeleri kullanılarak, IP adresleri ihtiyaç duyulan yerlerde optimize edilebilir. Bu, özellikle büyük ağlarda IP adres israfını önlemeye yardımcı olur.
+Variable Length Subnet Masking (VLSM), ağ mühendislerinin IP adreslerini daha verimli bir şekilde yönetmelerini sağlayan bir alt ağ oluşturma tekniğidir. Klasik alt ağ maskesi yöntemlerinin aksine, VLSM ile her bir alt ağ için farklı uzunlukta alt ağ maskeleri kullanılarak, IP adresleri ihtiyaç duyulan yerlerde optimize edilebilir. Bu, özellikle büyük ağlarda IP adres israfını önlemeye yardımcı olur.
 
 ## VLSM’nin Ortaya Çıkış Sebebi
 
@@ -16,7 +16,7 @@ Ağların büyümesi ve karmaşıklığının artmasıyla, sabit uzunluktaki alt
 
 ## VLSM ve FLSM Arasındaki Farklar
 
-VLSM ve FLSM arasındaki temel fark, subnet maskelerinin esnekliği ve verimliliğidir. FLSM'de tüm alt ağlar aynı subnet maskeyi kullanırken, VLSM ile her bir alt ağ kendi ihtiyaçlarına göre farklı bir subnet maskesi kullanabilir. Bu, büyük ağlarda IP adres israfını önler ve ağ yöneticilerine IP adreslerini daha esnek bir şekilde dağıtma olanağı tanır. Örneğin, bir alt ağda 100 IP adresi gerekliyken, diğer bir alt ağda sadece 10 IP adresi gerekiyorsa, VLSM ile bu alt ağlar için uygun subnet maskeleri seçilebilir.
+VLSM ve FLSM arasındaki temel fark, alt ağ maskelerinin esnekliği ve verimliliğidir. FLSM'de tüm alt ağlar aynı alt ağ maskesini kullanırken, VLSM ile her bir alt ağ kendi ihtiyaçlarına göre farklı bir alt ağ maskesi kullanabilir. Bu, büyük ağlarda IP adres israfını önler ve ağ yöneticilerine IP adreslerini daha esnek bir şekilde dağıtma olanağı tanır. Örneğin, bir alt ağda 100 IP adresi gerekliyken, diğer bir alt ağda sadece 10 IP adresi gerekiyorsa, VLSM ile bu alt ağlar için uygun alt ağ maskeleri seçilebilir.
 
 ## Dezavantajlar
 
