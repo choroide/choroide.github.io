@@ -3,6 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
 
+Merhaba ben Mükremin Akkaya. Ağ ve Sistem Yönetimi, Adli Bilişim ve yazılıma tutkulu bir bilişim uzmanı adayıyım. Bu blogda, Linux ve Windows Sistem Yönetimi, Ağ teknolojileri ve siber güvenlik alanlarında öğrendiklerimi paylaşıyorum. Bu alanda kazandığım bilgi ve deneyimleri paylaşarak benimle benzer konularda çalışan kişilere yardımcı olmayı amaçlıyorum.
+
+Oluşturduğum yazılar için geliştirilebilir veya yanlış olduğunu düşündüğünüz yerler için bana e-posta veya Linkedin üzerinden mesaj yoluyla ulaşabilirsiniz.  Fikirleriniz, önerileriniz, tavsiyeleriniz ve eleştirileriniz benim için çok önemlidir. 
+
+İyi okumalar.
+
+Özgeçmişime erişmek için [buraya](https://drive.google.com/file/d/1dW8TJYZFXLFznHZxLApG-MKOlhly0fHT/view?usp=sharing) tıklayın.
